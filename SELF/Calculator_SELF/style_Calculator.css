@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+
+    text-align: center;
+}
+
+body{
+
+    background-color: #6D9DC5;
+}
+.container{
+
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.calci{
+    
+    height: 60vmin;
+    width: 60vmin;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.25vmin;
+    margin-top: 15rem;
+}
+
+
+.box {
+
+    
+    height: 13vmin;
+    width: 13vmin;
+    border-radius: 0.25rem;
+    border: none;
+    font-size: 6vmin;
+    
+}
+
+.input{
+
+    background-color: #ADB6C4;
+    height: 10vmin;
+    width: 51.2vmin;
+    font-size: 1.88rem;
+    
+}
+
+#plus , #minus , #divide , #percent , #multiply , #couns{
+
+    background-color:#00CCCC;
+}
+
+#AC {
+
+    background-color: #FFEFD3;
+}
+
+#xx {
+
+    background-color: #F02D3A;
+}
+
+#equal {
+
+    background-color: #2DD881 ;
+}
+
+#one , #two , #three , #four , #five , #six , #seven , #eight , #nine , #zero , #dot{
+
+    background-color: #ADB6C4;
+}

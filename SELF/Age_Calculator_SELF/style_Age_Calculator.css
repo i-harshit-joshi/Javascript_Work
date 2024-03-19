@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg , #2E4057 , #A6E1FA);
+    
+}
+
+.agecalci h1{
+    margin-bottom: 2.5rem;
+    color: white;
+}
+
+.agecalci h1 span{
+
+    color: yellow;
+    border: black;
+    
+}
+
+.agecalci{
+
+    margin-bottom: 13rem;
+}
+
+.agecalci input{
+
+    height: 2rem;
+    width: 20rem;
+}
+
+.agecalci button{
+
+    height: 5vmin;
+    width: 13vmin;
+    outline: 0;
+    margin-top: 0.25rem;
+    border-radius: 0.45rem;
+}
+
+.print{
+
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.25rem;
+}    
+
+/*.input-box input::-webkit-calender-picker-indicator{
+
+}*/
