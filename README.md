@@ -1,1 +1,3 @@
-# Javascript_Work
+# Javascript_Beginner_Projects
+This is my practice of javascript 
+
